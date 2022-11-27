@@ -22,7 +22,7 @@ function selectTopic() {
     console.log('Please try again!');
     }
 }
-console.log ('Here are the thpics we learned through Prework');
+console.log ('Here are the topics we learned through Prework');
 
 ListTopics()
 
